@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **meldyssey/meldyssey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 안녕하세요👋 프론트엔드 개발자 류정윤입니다.
+
+공공기관의 AI 데이터 기획팀에서 웹페이지 기획 및 관리 업무를 하며 기획한 것을 직접 구현하고자 직무를 전환하게 되었습니다. <br/>
+오픈서베이에서는 고객사의 다양한 리서치 요구사항을 충족시키는 설문 로직을 설계하여 내부 프로덕트에 JavaScript와 Jquery를 활용하여 퍼블리싱하는 업무를 진행하였습니다.
+해당 업무를 통해 JavaScript의 기본 문법과 문제해결력을 키웠습니다. <br/>
+기획된 서비스를 구현하며 발생하는 문제를 하나하나 해결해나가며 고객의 만족도를 높이는 프론트엔드 개발자가 되고 싶습니다. <br/>
+
+- 이메일 : rjy115@gmail.com
+- 포트폴리오 : https://rjy.notion.site/Melissa-ce4929575d9d43749aab7e7c2093b751?pvs=4
+- 블로그 : https://velog.io/@melcoding/posts
