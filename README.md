@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 안녕하세요😄 류정윤입니다.
+## Hello😄 I'm Jeongyun Ryu.
 
 - 이메일 : rjy115@gmail.com
-- 포트폴리오 : [포트폴리오](https://rjy-portfolio.vercel.app/)
+- 포트폴리오 : [Portfolio](https://rjy-portfolio.vercel.app/)
 - 블로그 : https://velog.io/@melcoding
